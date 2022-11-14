@@ -11,7 +11,7 @@ package day02.basic;
  */
 public class MainClass03 {
 	public static void main(String[] args) {
-		//char 형 변수 선언과 동시에 값 대입하기
+		//char 형 변수 선언과 동시에 값 대입하기 char = 문자 한글자만 대입가능
 		char ch1 = 'A';
 		// 출력해보기
 		System.out.println("char 형 변수에 저장된 문자: " + ch1);
